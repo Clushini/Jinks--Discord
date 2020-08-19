@@ -1,0 +1,5 @@
+{
+    "PREFIX" : "@jinks",
+    "BOT_TOKEN" : "",
+    "API_ADDRESS" : "http://localhost:6666"
+}
